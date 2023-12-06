@@ -15,10 +15,11 @@ func variables() {
 	fmt.Println(student1)
 	fmt.Println(student2)
 	fmt.Println(x)
-
+	fmt.Printf(student1)
+	fmt.Printf(student2)
+	fmt.Printf("x: %d\n", x)
 }
-func main()  {
+func main() {
 	variables()
-
 
 }
