@@ -28,9 +28,9 @@ func constVariables() {
 }
 
 // Constants value cannot be changed
-func main() {
-	constVariables()
-}
+//func main() {
+//	constVariables()
+//}
 
 //CONSTANT RULES
 /*
