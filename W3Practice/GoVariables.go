@@ -61,11 +61,11 @@ func blockVariables() {
 	fmt.Println(c)
 }
 
-func main() {
-	//variables()
-	//multVariables()
-	blockVariables()
-}
+//func main() {
+//	//variables()
+//	//multVariables()
+//	blockVariables()
+//}
 
 //VARIABLE NAMING RULES
 /*
