@@ -78,10 +78,11 @@ func bitwiseOperators() {
 		>>	Signed right shift	Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off	x >> 2
 	*/
 }
-func main() {
-	//arithmeticOperators()
-	//assignmentOperators()
-	//comparisonOperators()
-	//logicalOperators()
-	//bitwiseOperators()
-}
+
+//func main() {
+//arithmeticOperators()
+//assignmentOperators()
+//comparisonOperators()
+//logicalOperators()
+//bitwiseOperators()
+//}
